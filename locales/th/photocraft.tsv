@@ -2039,7 +2039,6 @@ fontWeight	Light	เบา
 	Light Rough	หยาบเบา
 	Light Source	แหล่งกำเนิดแสง
 	Light Theme	ธีมแสง
-	Light Type	ประเภทแสง
 	Light X	ไลท์ เอ็กซ์
 	Light Y	ไลท์ วาย
 	Light Z	ไลท์ ซี
@@ -3629,7 +3628,6 @@ curves	Smooth	เรียบเนียน
 	Switched to CPU rendering	เปลี่ยนไปใช้การเรนเดอร์ CPU
 	Symmetry Off	ปิดสมมาตร
 	Sync with system	ซิงค์กับระบบ
-	System	ระบบ
 	System Info	ข้อมูลระบบ
 	System Info…	ข้อมูลระบบ…
 	System title bar	แถบหัวเรื่องของระบบ

@@ -142,7 +142,7 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	Bottom:	ล่าง:
 	Break Link	ยกเลิกการเชื่อมโยง
 	Brightness	ความสว่าง
-	Bring Forward	นำไปข้างหน้า
+	Bring Forward	นำมาข้างหน้า
 	Bring to Front	นำไปไว้หน้าสุด
 	Brown	น้ำตาล
 	Browse…	เรียกดู…
@@ -605,7 +605,7 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	Light gray	เทาอ่อน
 	Light Intensity	ความเข้มของแสง
 	Light Theme	ธีมสว่าง
-	Light Type	ชนิดแสง
+	Light Type	ประเภทแสง
 	Lighten	สว่างขึ้น
 	Lighter Color	สีที่สว่างกว่า
 	Lighting	แสง
@@ -762,7 +762,7 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	Original	ต้นฉบับ
 	Other	อื่น ๆ
 	Outer Glow…	เรืองแสงด้านนอก…
-	Outline	เส้นขอบ
+	Outline	เค้าโครงร่าง
 	Output	ผลลัพธ์
 	Output:	เอาต์พุต:
 	Outside	ด้านนอก
@@ -787,7 +787,7 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	Path:	พาธ:
 	Paths	เส้นทาง
 	Pattern	ลวดลาย
-	Pattern Type	ชนิดลวดลาย
+	Pattern Type	ประเภทลวดลาย
 	Pause	หยุดชั่วคราว
 	Pen	ปากกา
 	Pen Tool	เครื่องมือปากกา
@@ -1059,7 +1059,7 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	Stroke Options	ตัวเลือกเส้นขอบ
 	Stroke:	เส้นขอบ:
 	Studio	สตูดิโอ
-	Style	สไตล์
+	Style	ลักษณะ
 	Style:	สไตล์:
 	Styles	สไตล์
 	Stylize	สไตไลซ์
@@ -1075,7 +1075,7 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	Symbol	สัญลักษณ์
 	Symbols	สัญลักษณ์
 	Sync with system	ตามระบบ
-	System	ตามระบบ
+	System	ระบบ
 	Tab	แท็บ
 	Table	ตาราง
 	Table style	สไตล์ตาราง
@@ -1123,9 +1123,9 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	Triangle	สามเหลี่ยม
 	Twirl	หมุนวน
 	Twist	บิด
-	Type	ชนิด
+	Type	ประเภท
 	Type Tool	เครื่องมือข้อความ
-	Type:	ชนิด:
+	Type:	ประเภท:
 	Typewriter	พิมพ์ดีด
 	Type…	พิมพ์…
 	Typing	การพิมพ์

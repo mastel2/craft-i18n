@@ -1271,7 +1271,7 @@ certificate	Key usage	การใช้งานกุญแจ
 	Link Action	การทำงานของลิงก์
 	Link Appearance	ลักษณะของลิงก์
 	Link Properties	คุณสมบัติลิงก์
-	Link Type:	ชนิดลิงก์:
+	Link Type:	ประเภทลิงก์:
 	Link URL	URL ของลิงก์
 	links	ลิงก์
 	Links, actions and JavaScripts	ลิงก์ การทำงาน และ JavaScript
@@ -2292,7 +2292,6 @@ action wizard	Start	เริ่ม
 	Stroke colour	สีเส้น
 	Strong	แข็งแรง
 	Structure Info	ข้อมูลโครงสร้าง
-	Style	ลักษณะ
 calendar weekday	Su	อา
 certificate	Subject	เจ้าของใบรับรอง
 	Submit a form	ส่งแบบฟอร์ม

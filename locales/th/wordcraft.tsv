@@ -118,7 +118,7 @@
 	Allow line breaks	อนุญาตการขึ้นบรรทัดใหม่
 	Allow row to break across pages	อนุญาตให้แถวแบ่งข้ามหน้า
 	Alphabetical	ตามตัวอักษร
-	Alt Text	ข้อความแสดงแทน
+	Alt Text	คำอธิบาย
 	Alt text	ข้อความแสดงแทน
 	Alt Text Pane	บานหน้าต่างข้อความแสดงแทน
 	Alt\nText	ข้อความ\nแสดงแทน
@@ -206,7 +206,7 @@
 	Blank Page	หน้าเปล่า
 	Block\nAuthors	บล็อก\nผู้เขียน
 	Blue:	น้ำเงิน:
-	Body Text	ข้อความเนื้อหา
+	Body Text	เนื้อหา
 	Bold choice. Ctrl+Z is right there if you need it.	ตัดสินใจกล้าดีนะ ถ้าเปลี่ยนใจ Ctrl+Z ก็อยู่ตรงนี้เอง
 	Book	หนังสือ
 	Book title	ชื่อหนังสือ
@@ -257,7 +257,7 @@
 	Cell Margins	ระยะขอบเซลล์
 	Cell\nMargins	ระยะขอบ\nเซลล์
 	Center Glow	เรืองแสงตรงกลาง
-	Change Chart Type	เปลี่ยนชนิดแผนภูมิ
+	Change Chart Type	เปลี่ยนประเภทแผนภูมิ
 	Change Colors	เปลี่ยนสี
 	Change Layout	เปลี่ยนเค้าโครง
 	Change List Level	เปลี่ยนระดับรายการ
@@ -268,7 +268,7 @@
 	Change Structure	เปลี่ยนโครงสร้าง
 	Change to Display	เปลี่ยนเป็นแบบแสดงผล
 	Change to Inline	เปลี่ยนเป็นแบบแทรกในบรรทัด
-	Change\nChart Type	เปลี่ยน\nชนิดแผนภูมิ
+	Change\nChart Type	เปลี่ยน\nประเภทแผนภูมิ
 	Change\nColors	เปลี่ยน\nสี
 	Changed lines:	บรรทัดที่เปลี่ยน:
 	Changes	การเปลี่ยนแปลง
@@ -282,7 +282,7 @@
 	Character Position	ตำแหน่งอักขระ
 	Character Scale	มาตราส่วนอักขระ
 	Character Shading	การแรเงาอักขระ
-	Character Spacing	ระยะห่างอักขระ
+	Character Spacing	ระยะห่างตัวอักษร
 	Character spacing	ระยะห่างอักขระ
 	Character style	สไตล์อักขระ
 	Characters (no spaces)	อักขระ (ไม่รวมช่องว่าง)
@@ -422,7 +422,7 @@
 	Custom Watermark	ลายน้ำแบบกำหนดเอง
 	Custom Watermark…	ลายน้ำแบบกำหนดเอง…
 	Customize	ปรับแต่ง
-	Customize Keyboard	ปรับแต่งแป้นพิมพ์
+	Customize Keyboard	กำหนดแป้นพิมพ์เอง
 	Customize Quick Access Toolbar	ปรับแต่งแถบเครื่องมือด่วน
 	Customize Quick Access Toolbar…	ปรับแต่งแถบเครื่องมือด่วน…
 	Customize Ribbon	ปรับแต่งริบบอน
@@ -442,7 +442,7 @@
 	Day	วัน
 	Decimal	ทศนิยม
 	Decorative objects only add visual interest: screen readers skip them.	วัตถุตกแต่งมีไว้เพื่อความสวยงามเท่านั้น โปรแกรมอ่านหน้าจอจะข้ามไป
-	Decrease Indent	ลดการเยื้อง
+	Decrease Indent	ลดระยะเยื้อง
 	Deep	เข้ม
 	Default formatting	การจัดรูปแบบเริ่มต้น
 	Default tab stops:	ตำแหน่งแท็บเริ่มต้น:
@@ -558,13 +558,13 @@
 	Edit\nData	แก้ไข\nข้อมูล
 	Edit\nRecipient List	แก้ไข\nรายชื่อผู้รับ
 	Edited	แก้ไขแล้ว
-	Editing endnote	กำลังแก้ไขเชิงอรรถท้ายเรื่อง
+	Editing endnote	กำลังแก้ไขอ้างอิงท้ายเล่ม
 	Editing footnote	กำลังแก้ไขเชิงอรรถ
 	Editing header/footer	กำลังแก้ไขหัวกระดาษ/ท้ายกระดาษ
 	Editing in this document is restricted.	การแก้ไขในเอกสารนี้ถูกจำกัด
 	Editing — edit the document directly	การแก้ไข — แก้ไขเอกสารได้โดยตรง
 	Edition	ฉบับพิมพ์
-	Editor	ตัวตรวจทาน
+	Editor	ตัวแก้ไข
 	Elbow Arrow Connector	ตัวเชื่อมต่อลูกศรหักมุม
 	Elbow Connector	ตัวเชื่อมต่อแบบหักมุม
 	Enclose Characters	ล้อมกรอบอักขระ
@@ -612,7 +612,7 @@
 	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	สคริปต์และเอเจนต์ AI ใช้ได้ทุกคำสั่ง: เรียก `wordcraft-cli mcp` เพื่อใช้เซิร์ฟเวอร์ MCP หรือเริ่มแอปด้วย `--control <port>` เพื่อใช้ช่องควบคุม JSON
 	Every field needs a name.	ทุกฟิลด์ต้องมีชื่อ
 	Everyone	ทุกคน
-	Exactly	ตายตัว
+	Exactly	พอดี
 	Exactly {n}	ตายตัว {n}
 	Exceptions (optional)	ข้อยกเว้น (ไม่บังคับ)
 	Exceptions…	ข้อยกเว้น…
@@ -671,7 +671,7 @@
 	Font: {font}	แบบอักษร: {font}
 	Font…	แบบอักษร…
 	Footer	ท้ายกระดาษ
-	Footnote and Endnote	เชิงอรรถและเชิงอรรถท้ายเรื่อง
+	Footnote and Endnote	เชิงอรรถและอ้างอิงท้ายเล่ม
 	Footnotes	เชิงอรรถ
 	Footnotes and endnotes	เชิงอรรถและเชิงอรรถท้ายเรื่อง
 	Footnotes to endnotes	เชิงอรรถเป็นเชิงอรรถท้ายเรื่อง
@@ -684,7 +684,7 @@
 	Formatted	จัดรูปแบบแล้ว
 	Formatted Text	ข้อความที่จัดรูปแบบ
 	Formatting	การจัดรูปแบบ
-	Formatting at Selection	การจัดรูปแบบที่ส่วนที่เลือก
+	Formatting at Selection	จัดรูปแบบส่วนที่เลือก
 	Formatting exceptions	ข้อยกเว้นการจัดรูปแบบ
 	Formatting marks	เครื่องหมายการจัดรูปแบบ
 	Formatting saved for new documents:	การจัดรูปแบบที่บันทึกไว้สำหรับเอกสารใหม่:
@@ -787,7 +787,7 @@
 	Ignore words with numbers	ละเว้นคำที่มีตัวเลข
 	Illustrations	ภาพประกอบ
 	Immersive	อ่านแบบดื่มด่ำ
-	Immersive Reader	ตัวอ่านแบบดื่มด่ำ
+	Immersive Reader	เครื่องมือช่วยอ่าน
 	Immersive\nReader	ตัวอ่าน\nแบบดื่มด่ำ
 	In Default apps, choose WordCraft for the document types you want it to open.	ในแอปเริ่มต้น ให้เลือก WordCraft สำหรับชนิดเอกสารที่ต้องการให้เปิด
 	In equations, typing a name after a backslash replaces it with its symbol.	ในสมการ การพิมพ์ชื่อตามหลังแบ็กสแลชจะแทนที่ชื่อนั้นด้วยสัญลักษณ์
@@ -829,7 +829,7 @@
 	Insert Date Field	แทรกฟิลด์วันที่
 	Insert Endnote	แทรกเชิงอรรถท้ายเรื่อง
 	Insert Footnote	แทรกเชิงอรรถ
-	Insert Hyperlink	แทรกไฮเปอร์ลิงก์
+	Insert Hyperlink	แทรกลิงก์
 	Insert Index	แทรกดัชนี
 	Insert Left	แทรกทางซ้าย
 	Insert Merge Field	แทรกฟิลด์ผสาน
@@ -1331,7 +1331,7 @@
 	Professional	มืออาชีพ
 	Promote	เลื่อนระดับขึ้น
 	Promote to Heading 1	เลื่อนขึ้นเป็นหัวเรื่อง 1
-	Proofing	การพิสูจน์อักษร
+	Proofing	การตรวจทาน
 	Proofing Issues	ปัญหาการพิสูจน์อักษร
 	Proofing language	ภาษาสำหรับพิสูจน์อักษร
 	Protect Document	ป้องกันเอกสาร
@@ -1352,7 +1352,7 @@
 	Reading Column Width	ความกว้างคอลัมน์ขณะอ่าน
 	Reading Highlight	การเน้นขณะอ่าน
 	Reading Line Spacing	ระยะห่างบรรทัดขณะอ่าน
-	Reading Mode	โหมดอ่าน
+	Reading Mode	โหมดการอ่าน
 	Reading Speed	ความเร็วในการอ่าน
 	Reading Text Size	ขนาดข้อความขณะอ่าน
 	Reads the clipboard's rich text and keeps its formatting.	อ่านข้อความแบบ Rich Text จากคลิปบอร์ดและคงการจัดรูปแบบไว้
@@ -1391,7 +1391,7 @@
 	Remove from Quick Access Toolbar	เอาออกจากแถบเครื่องมือด่วน
 	Remove gradient stop	เอาจุดหยุดการไล่ระดับสีออก
 	Remove Header	เอาหัวกระดาษออก
-	Remove Hyperlink	เอาไฮเปอร์ลิงก์ออก
+	Remove Hyperlink	ลบลิงก์
 	Remove my name from comments, changes and file properties when saving	เอาชื่อของฉันออกจากความคิดเห็น การเปลี่ยนแปลง และคุณสมบัติไฟล์เมื่อบันทึก
 	Remove Password	เอารหัสผ่านออก
 	Remove Pen	เอาปากกาออก
@@ -1401,7 +1401,7 @@
 	Remove Space After Paragraph	เอาระยะห่างหลังย่อหน้าออก
 	Remove Table of Contents	เอาสารบัญออก
 	Remove the control once edited	เอาตัวควบคุมออกเมื่อแก้ไขแล้ว
-	Remove Watermark	เอาลายน้ำออก
+	Remove Watermark	ลบลายน้ำ
 	No watermark	ไม่มีลายน้ำ
 	Picture watermark	ลายน้ำรูปภาพ
 	Text watermark	ลายน้ำข้อความ
@@ -1572,7 +1572,7 @@
 	Setting:	การตั้งค่า:
 	Shading	การแรเงา
 	Shadow, glow and soft edges	เงา การเรืองแสง และขอบนุ่ม
-	Shape Fill	สีเติมรูปร่าง
+	Shape Fill	เติมสีรูปร่าง
 	Shape Format	รูปแบบรูปร่าง
 	Shape Outline	เส้นขอบรูปร่าง
 	Shape Styles	สไตล์รูปร่าง
@@ -1708,7 +1708,7 @@
 	Studio cover	ปกสตูดิโอ
 	Studio handbook (sample)	คู่มือสตูดิโอ (ตัวอย่าง)
 	Style based on:	สไตล์ที่ใช้เป็นฐาน:
-	Style Inspector	ตัวตรวจสอบสไตล์
+	Style Inspector	ตัวตรวจลักษณะ
 	Style name:	ชื่อสไตล์:
 	Style Set	ชุดสไตล์
 	Style: {style}	สไตล์: {style}
@@ -1733,7 +1733,7 @@
 	Tab stop position:	ตำแหน่งแท็บหยุด:
 	Tab stops to be cleared:	แท็บหยุดที่จะล้าง:
 	Table Column Width	ความกว้างคอลัมน์ตาราง
-	Table Design	ออกแบบตาราง
+	Table Design	การออกแบบตาราง
 	Table direction:	ทิศทางตาราง:
 	Table Layout	เค้าโครงตาราง
 	Table of Authorities	สารบัญอ้างอิงทางกฎหมาย
@@ -1746,7 +1746,7 @@
 	Table Row Height	ความสูงแถวตาราง
 	Table size	ขนาดตาราง
 	Table Style Options	ตัวเลือกสไตล์ตาราง
-	Table Styles	สไตล์ตาราง
+	Table Styles	ลักษณะตาราง
 	Tabs…	แท็บ…
 	Tabular List	รายการแบบตาราง
 	Tag	แท็ก
@@ -1772,7 +1772,7 @@
 	Text size	ขนาดข้อความ
 	Text snaps to characters	ข้อความจัดชิดตามอักขระ
 	Text to display:	ข้อความที่จะแสดง:
-	Text Wrapping	การตัดข้อความ
+	Text Wrapping	การตัดคำ
 	Text\nBox	กล่อง\nข้อความ
 	Text\nDirection	ทิศทาง\nข้อความ
 	That format doesn't keep everything, so the document is still open. Save it as a Word document (.docx) to go on.	รูปแบบนั้นเก็บข้อมูลได้ไม่ครบ เอกสารจึงยังเปิดอยู่ บันทึกเป็นเอกสาร Word (.docx) เพื่อดำเนินการต่อ
@@ -1845,7 +1845,7 @@
 	Toggle Field Codes	สลับรหัสฟิลด์
 	Toggle Unicode Character	สลับอักขระ Unicode
 	Top and Bottom	บนและล่าง
-	Top Border	เส้นขอบด้านบน
+	Top Border	เส้นขอบบน
 	Top Left Cell	เซลล์บนซ้าย
 	Top Margin	ระยะขอบบน
 	Top of Page	ด้านบนของหน้า
@@ -1898,7 +1898,7 @@
 	Unlink\nCitations	ยกเลิกการเชื่อมโยง\nการอ้างอิง
 	Unlock Fields	ปลดล็อกฟิลด์
 	Up one level	ขึ้นไปหนึ่งระดับ
-	Update Field	อัปเดตฟิลด์
+	Update Field	อัปเดตเขตข้อมูล
 	Update fields before printing	อัปเดตฟิลด์ก่อนพิมพ์
 	Update Index	อัปเดตดัชนี
 	Update Style to Match Selection	อัปเดตสไตล์ให้ตรงกับส่วนที่เลือก
