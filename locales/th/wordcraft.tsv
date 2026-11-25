@@ -12,7 +12,7 @@
 # consulted or copied; add entries the same way.
 
 	(All)	(ทั้งหมด)
-	(no style)	(ไม่มีสไตล์)
+	(no style)	(ไม่มีรูปแบบ)
 	(no suggestions)	(ไม่มีคำแนะนำ)
 	(normal text)	(ข้อความปกติ)
 	(not matched)	(ไม่ตรงกัน)
@@ -71,7 +71,7 @@
 	Add the chapter number	เพิ่มหมายเลขบท
 	Add to Document	เพิ่มลงในเอกสาร
 	Add to Quick Access Toolbar	เพิ่มลงในแถบเครื่องมือด่วน
-	Add to Style Gallery	เพิ่มลงในแกลเลอรีสไตล์
+	Add to Style Gallery	เพิ่มลงในแกลเลอรีรูปแบบ
 	Add whether it is above or below	ระบุว่าอยู่ด้านบนหรือด้านล่าง
 	Add/Edit\nBibliography	เพิ่ม/แก้ไข\nบรรณานุกรม
 	Add/Edit\nCitation	เพิ่ม/แก้ไข\nการอ้างอิง
@@ -137,8 +137,8 @@
 	Apply as you type	นำไปใช้ขณะพิมพ์
 	Apply Asian line-breaking rules (kinsoku)	ใช้กฎการตัดบรรทัดภาษาเอเชีย (kinsoku)
 	Apply formatting to:	ใช้การจัดรูปแบบกับ:
-	Apply Style	ใช้สไตล์
-	Apply Styles	ใช้สไตล์
+	Apply Style	ใช้รูปแบบ
+	Apply Styles	ใช้รูปแบบ
 	Arabic	ภาษาอารบิก
 	Arch Down	โค้งลง
 	Arch Up	โค้งขึ้น
@@ -172,8 +172,8 @@
 	Automatic Table 1 (3 levels)	ตารางอัตโนมัติ 1 (3 ระดับ)
 	Automatic Table 2 (2 levels)	ตารางอัตโนมัติ 2 (2 ระดับ)
 	Automatically hyphenate document	ใส่ยัติภังค์ในเอกสารอัตโนมัติ
-	Automatically Update Document Styles	อัปเดตสไตล์เอกสารอัตโนมัติ
-	Automatically update document styles	อัปเดตสไตล์เอกสารอัตโนมัติ
+	Automatically Update Document Styles	อัปเดตรูปแบบเอกสารอัตโนมัติ
+	Automatically update document styles	อัปเดตรูปแบบเอกสารอัตโนมัติ
 	AutoSave documents you have saved in WordCraft	บันทึกอัตโนมัติสำหรับเอกสารที่คุณบันทึกไว้ใน WordCraft
 	AutoSave failed: {error}. Save the document to turn AutoSave back on.	บันทึกอัตโนมัติล้มเหลว: {error} บันทึกเอกสารเพื่อเปิดบันทึกอัตโนมัติอีกครั้ง
 	AutoSave isn't available in the browser: it can't write to your files. Save downloads a copy.	บันทึกอัตโนมัติใช้ในเบราว์เซอร์ไม่ได้ เนื่องจากเขียนลงไฟล์ของคุณไม่ได้ การบันทึกจะดาวน์โหลดสำเนาแทน
@@ -229,8 +229,8 @@
 	Browse in WordCraft…	เรียกดูใน WordCraft…
 	Building Block Gallery Content Control	ตัวควบคุมเนื้อหาแกลเลอรีส่วนประกอบสำเร็จรูป
 	Built-In	ในตัว
-	Built-in style	สไตล์ในตัว
-	Built-in styles can't be deleted.	ลบสไตล์ในตัวไม่ได้
+	Built-in style	รูปแบบในตัว
+	Built-in styles can't be deleted.	ลบรูปแบบในตัวไม่ได้
 	Bullet Library	ไลบรารีสัญลักษณ์หัวข้อย่อย
 	Bullets	สัญลักษณ์หัวข้อย่อย
 	By author	ตามผู้เขียน
@@ -284,7 +284,7 @@
 	Character Shading	การแรเงาอักขระ
 	Character Spacing	ระยะห่างตัวอักษร
 	Character spacing	ระยะห่างอักขระ
-	Character style	สไตล์อักขระ
+	Character style	รูปแบบอักขระ
 	Characters (no spaces)	อักขระ (ไม่รวมช่องว่าง)
 	Characters (with spaces)	อักขระ (รวมช่องว่าง)
 	Characters per line:	อักขระต่อบรรทัด:
@@ -300,7 +300,7 @@
 	Check Spelling as You Type	ตรวจการสะกดขณะพิมพ์
 	Check spelling as you type	ตรวจการสะกดขณะพิมพ์
 	Check\nAccessibility	ตรวจสอบ\nการช่วยการเข้าถึง
-	Checked styles are allowed:	สไตล์ที่ทำเครื่องหมายไว้ได้รับอนุญาต:
+	Checked styles are allowed:	รูปแบบที่ทำเครื่องหมายไว้ได้รับอนุญาต:
 	Checked symbol	สัญลักษณ์เมื่อทำเครื่องหมาย
 	Chevron Down	บั้งลง
 	Chevron Up	บั้งขึ้น
@@ -315,7 +315,7 @@
 	Citations & Bibliography	การอ้างอิงและบรรณานุกรม
 	Clear All Formatting	ล้างการจัดรูปแบบทั้งหมด
 	Clear Character Formatting	ล้างการจัดรูปแบบอักขระ
-	Clear Character Style	ล้างสไตล์อักขระ
+	Clear Character Style	ล้างรูปแบบอักขระ
 	Clear Formatting Level	ล้างการจัดรูปแบบของระดับ
 	Clear Paragraph Formatting	ล้างการจัดรูปแบบย่อหน้า
 	Click a border between two cells to merge them. Esc stops.	คลิกเส้นขอบระหว่างสองเซลล์เพื่อผสานเข้าด้วยกัน กด Esc เพื่อหยุด
@@ -382,7 +382,7 @@
 	Convert to Text	แปลงเป็นข้อความ
 	Copy Formatting	คัดลอกการจัดรูปแบบ
 	Copy of the text a bookmark marks	สำเนาของข้อความที่บุ๊กมาร์กทำเครื่องหมายไว้
-	Copy Styles	คัดลอกสไตล์
+	Copy Styles	คัดลอกรูปแบบ
 	Copy to	คัดลอกไปยัง
 	Copyright Sign	เครื่องหมายลิขสิทธิ์
 	Correct accidental usage of cAPS LOCK key	แก้ไขการกดแป้น cAPS LOCK โดยไม่ตั้งใจ
@@ -395,11 +395,11 @@
 	Count words in text boxes and notes	นับคำในกล่องข้อความและบันทึกย่อ
 	Courtesy Title	คำนำหน้าชื่อ
 	Cover Page	หน้าปก
-	Create a Style	สร้างสไตล์
-	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	สร้างเค้าร่างแบบโต้ตอบได้ของเอกสาร\n\nเป็นวิธีที่ดีในการติดตามว่าคุณอยู่ตรงไหน หรือย้ายเนื้อหาไปมาได้อย่างรวดเร็ว\n\nเริ่มต้นโดยไปที่แท็บหน้าแรก แล้วใช้สไตล์หัวเรื่องกับหัวเรื่องในเอกสาร
+	Create a Style	สร้างรูปแบบ
+	Create an interactive outline of your document.\n\nIt's a great way to keep track of where you are or quickly move your content around.\n\nTo get started, go to the Home tab and apply Heading styles to the headings in your document.	สร้างเค้าร่างแบบโต้ตอบได้ของเอกสาร\n\nเป็นวิธีที่ดีในการติดตามว่าคุณอยู่ตรงไหน หรือย้ายเนื้อหาไปมาได้อย่างรวดเร็ว\n\nเริ่มต้นโดยไปที่แท็บหน้าแรก แล้วใช้รูปแบบหัวเรื่องกับหัวเรื่องในเอกสาร
 	Create Graphic	สร้างกราฟิก
 	Create Link	สร้างลิงก์
-	Create New Style	สร้างสไตล์ใหม่
+	Create New Style	สร้างรูปแบบใหม่
 	Create Source	สร้างแหล่งที่มา
 	Croatian	ภาษาโครเอเชีย
 	Cross-reference	การอ้างอิงโยง
@@ -410,7 +410,7 @@
 	{key} counts your words, characters and paragraphs.	{key} นับคำ อักขระ และย่อหน้าของคุณ
 	Current Position	ตำแหน่งปัจจุบัน
 	Current record	ระเบียนปัจจุบัน
-	Current style: {style}	สไตล์ปัจจุบัน: {style}
+	Current style: {style}	รูปแบบปัจจุบัน: {style}
 	Curved Arrow Connector	ตัวเชื่อมต่อลูกศรโค้ง
 	Curved Connector	ตัวเชื่อมต่อแบบโค้ง
 	Custom dictionary	พจนานุกรมที่กำหนดเอง
@@ -465,7 +465,7 @@
 	Delete Rows	ลบแถว
 	Delete Selected Ink	ลบหมึกที่เลือก
 	Delete Table	ลบตาราง
-	Delete Table Style	ลบสไตล์ตาราง
+	Delete Table Style	ลบรูปแบบตาราง
 	Deletions:	การลบ:
 	Delivery address:	ที่อยู่ผู้รับ:
 	Demote	ลดระดับ
@@ -512,7 +512,7 @@
 	Document\nPreferences	การตั้งค่า\nเอกสาร
 	Documents you open will show up here.	เอกสารที่คุณเปิดจะแสดงที่นี่
 	Does not contain	ไม่มีคำว่า
-	Don't add space between paragraphs of the same style	ไม่เพิ่มระยะห่างระหว่างย่อหน้าที่มีสไตล์เดียวกัน
+	Don't add space between paragraphs of the same style	ไม่เพิ่มระยะห่างระหว่างย่อหน้าที่มีรูปแบบเดียวกัน
 	Don't capitalize after:	ไม่ขึ้นต้นด้วยตัวพิมพ์ใหญ่หลัง:
 	Don't hyphenate	ไม่ตัดคำด้วยยัติภังค์
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	ไม่อ่านการอ้างอิงและบรรณานุกรมของ Zotero, Mendeley หรือ EndNote
@@ -744,14 +744,14 @@
 	Heading 1	หัวเรื่อง 1
 	Heading 2	หัวเรื่อง 2
 	Heading 3	หัวเรื่อง 3
-	Heading styles (levels 1–{n})	สไตล์หัวเรื่อง (ระดับ 1–{n})
+	Heading styles (levels 1–{n})	รูปแบบหัวเรื่อง (ระดับ 1–{n})
 	Heading {n}	หัวเรื่อง {n}
 	Hebrew	ภาษาฮีบรู
 	Hex:	ฐานสิบหก:
 	Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?	สวัสดี! ฉันคือ Nib ผู้ช่วยการเขียนของคุณ ฉันมีเคล็ดลับ แป้นพิมพ์ลัด และบางครั้งก็มีความเห็นที่ไม่มีใครถาม ให้ฉันอยู่ช่วยต่อไหม
 	Hidden bookmarks	บุ๊กมาร์กที่ซ่อนอยู่
 	Hide Codes	ซ่อนรหัส
-	Hide from style lists	ซ่อนจากรายการสไตล์
+	Hide from style lists	ซ่อนจากรายการรูปแบบ
 	Hide Ink	ซ่อนหมึก
 	Hide Quick Access Toolbar	ซ่อนแถบเครื่องมือด่วน
 	Hide White Space	ซ่อนช่องว่าง
@@ -861,7 +861,7 @@
 	Inside Horizontal Border	เส้นขอบแนวนอนด้านใน
 	Inside Vertical Border	เส้นขอบแนวตั้งด้านใน
 	Inside:	ด้านใน:
-	Inspect Styles at Selection	ตรวจสอบสไตล์ที่ส่วนที่เลือก
+	Inspect Styles at Selection	ตรวจสอบรูปแบบที่ส่วนที่เลือก
 	Institution	สถาบัน
 	Integral	ปริพันธ์
 	Interface language:	ภาษาของส่วนติดต่อ:
@@ -929,7 +929,7 @@
 	Light with Outline	สีอ่อนพร้อมเส้นขอบ
 	Limit and\nLog	ลิมิตและ\nลอการิทึม
 	Limit consecutive hyphens to:	จำกัดยัติภังค์ติดกันไม่เกิน:
-	Limit formatting to a selection of styles	จำกัดการจัดรูปแบบไว้เฉพาะสไตล์ที่เลือก
+	Limit formatting to a selection of styles	จำกัดการจัดรูปแบบไว้เฉพาะรูปแบบที่เลือก
 	Line and Page Breaks	ตัวแบ่งบรรทัดและหน้า
 	Line and Paragraph Spacing	ระยะห่างบรรทัดและย่อหน้า
 	Line between	เส้นคั่นระหว่างคอลัมน์
@@ -955,10 +955,10 @@
 	Lines per page:	บรรทัดต่อหน้า:
 	Lines to drop:	ความสูงเป็นจำนวนบรรทัด:
 	Link entries to their headings	ลิงก์รายการไปยังหัวเรื่อง
-	Link level to style:	ลิงก์ระดับกับสไตล์:
+	Link level to style:	ลิงก์ระดับกับรูปแบบ:
 	Link to Previous	ลิงก์ไปยังก่อนหน้า
 	Link to:	ลิงก์ไปยัง:
-	Linked style (paragraph and character)	สไตล์ที่ลิงก์ (ย่อหน้าและอักขระ)
+	Linked style (paragraph and character)	รูปแบบที่ลิงก์ (ย่อหน้าและอักขระ)
 	Links and References	ลิงก์และการอ้างอิง
 	Link…	ลิงก์…
 	List Definition	ข้อกำหนดรายการ
@@ -983,8 +983,8 @@
 	Make WordCraft the default for Word documents…	ตั้ง WordCraft เป็นโปรแกรมเริ่มต้นสำหรับเอกสาร Word…
 	Makes the ribbon, menus and dialogs larger or smaller. Auto follows your system's display scaling; 100% is one screen pixel per point. Document zoom is separate.	ปรับขนาด ริบบอน เมนู และกล่องโต้ตอบให้ใหญ่ขึ้นหรือเล็กลง อัตโนมัติจะใช้ตามการปรับขนาดการแสดงผลของระบบ ส่วน 100% คือหนึ่งพิกเซลหน้าจอต่อหนึ่งพอยต์ การย่อ/ขยายเอกสารตั้งค่าแยกกัน
 	Manage Sources	จัดการแหล่งที่มา
-	Manage Styles	จัดการสไตล์
-	Manage Styles…	จัดการสไตล์…
+	Manage Styles	จัดการรูปแบบ
+	Manage Styles…	จัดการรูปแบบ…
 	Manual Hyphenation	การใส่ยัติภังค์ด้วยตนเอง
 	Manual hyphenation is complete.	การใส่ยัติภังค์ด้วยตนเองเสร็จสิ้นแล้ว
 	Manual Line Break	ตัวแบ่งบรรทัดด้วยตนเอง
@@ -1018,9 +1018,9 @@
 	Mirrored	สะท้อน
 	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.	MIT OR Apache-2.0 ลิขสิทธิ์ (c) 2026 ArtCraft Team และผู้ร่วมพัฒนา WordCraft
 	Moderate	ปานกลาง
-	Modify Style	ปรับเปลี่ยนสไตล์
-	Modify Table Style	ปรับเปลี่ยนสไตล์ตาราง
-	Modify Table Style…	ปรับเปลี่ยนสไตล์ตาราง…
+	Modify Style	ปรับเปลี่ยนรูปแบบ
+	Modify Table Style	ปรับเปลี่ยนรูปแบบตาราง
+	Modify Table Style…	ปรับเปลี่ยนรูปแบบตาราง…
 	Modify…	ปรับเปลี่ยน…
 	Mon	จ.
 	Month	เดือน
@@ -1066,7 +1066,7 @@
 	New documents will use this font.	เอกสารใหม่จะใช้แบบอักษรนี้
 	New documents will use this page setup.	เอกสารใหม่จะใช้การตั้งค่าหน้ากระดาษนี้
 	New documents will use this paragraph formatting.	เอกสารใหม่จะใช้การจัดรูปแบบย่อหน้านี้
-	New documents will use this style.	เอกสารใหม่จะใช้สไตล์นี้
+	New documents will use this style.	เอกสารใหม่จะใช้รูปแบบนี้
 	New documents will use WordCraft's built-in formatting.	เอกสารใหม่จะใช้การจัดรูปแบบในตัวของ WordCraft
 	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	เอกสารใหม่จะใช้การจัดรูปแบบในตัวของ WordCraft ค่าเริ่มต้นที่คุณบันทึกไว้จะกู้คืนไม่ได้ รีเซ็ตหรือไม่
 	New Drawing Canvas	พื้นที่วาดใหม่
@@ -1076,8 +1076,8 @@
 	New Paragraph	ย่อหน้าใหม่
 	New shortcut:	แป้นพิมพ์ลัดใหม่:
 	New Tab	แท็บใหม่
-	New Table Style	สไตล์ตารางใหม่
-	New Table Style…	สไตล์ตารางใหม่…
+	New Table Style	รูปแบบตารางใหม่
+	New Table Style…	รูปแบบตารางใหม่…
 	New word	คำใหม่
 	New\nComment	ความคิดเห็น\nใหม่
 	New\nWindow	หน้าต่าง\nใหม่
@@ -1122,7 +1122,7 @@
 	Nonbreaking Hyphen	ยัติภังค์ไม่ตัดบรรทัด
 	Normal  {size} all	ปกติ  {size} ทั้งหมด
 	Normal speed	ความเร็วปกติ
-	Normal Style	สไตล์ปกติ
+	Normal Style	รูปแบบปกติ
 	Normal Text	ข้อความปกติ
 	Normal Word Document	เอกสาร Word ปกติ
 	North	ทิศเหนือ
@@ -1152,7 +1152,7 @@
 	Number of the page the field sits on	เลขหน้าที่ฟิลด์อยู่
 	Number of the section the field sits in	หมายเลขส่วนที่ฟิลด์อยู่
 	Number only, without the label's words	ตัวเลขเท่านั้น ไม่รวมคำของป้ายชื่อ
-	Number style for this level:	สไตล์ตัวเลขสำหรับระดับนี้:
+	Number style for this level:	รูปแบบตัวเลขสำหรับระดับนี้:
 	Numbering	ลำดับเลข
 	Numbering:	ลำดับเลข:
 	Numbering…	ลำดับเลข…
@@ -1186,7 +1186,7 @@
 	Only form fields can be filled in.	กรอกได้เฉพาะฟิลด์ฟอร์ม
 	only in Outline view	เฉพาะในมุมมองเค้าร่าง
 	Only in this document	เฉพาะในเอกสารนี้
-	Only the allowed styles can be applied.	นำไปใช้ได้เฉพาะสไตล์ที่อนุญาต
+	Only the allowed styles can be applied.	นำไปใช้ได้เฉพาะรูปแบบที่อนุญาต
 	Only web (http, https) and email (mailto) links can be followed	ติดตามได้เฉพาะลิงก์เว็บ (http, https) และอีเมล (mailto)
 	Open a document first	เปิดเอกสารก่อน
 	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	เปิดไฟล์ด้วยตัวเรียกดูของ WordCraft เองเมื่อกล่องโต้ตอบไฟล์ของระบบไม่ปรากฏ
@@ -1203,7 +1203,7 @@
 	Organizer…	ตัวจัดระเบียบ…
 	Original document	เอกสารต้นฉบับ
 	Original size	ขนาดต้นฉบับ
-	Other styles and their TOC level:	สไตล์อื่นและระดับในสารบัญ:
+	Other styles and their TOC level:	รูปแบบอื่นและระดับในสารบัญ:
 	Other:	อื่น ๆ:
 	Otherwise insert:	มิฉะนั้นให้แทรก:
 	Outline Level	ระดับเค้าร่าง
@@ -1230,7 +1230,7 @@
 	Page Movement	การเลื่อนหน้า
 	Page Number	เลขหน้า
 	Page Number Format	รูปแบบเลขหน้า
-	Page number style	สไตล์เลขหน้า
+	Page number style	รูปแบบเลขหน้า
 	Page numbering	ลำดับเลขหน้า
 	Page numbers at the right margin	เลขหน้าชิดระยะขอบขวา
 	Page on which a bookmarked passage falls	หน้าที่ข้อความที่มีบุ๊กมาร์กอยู่
@@ -1253,7 +1253,7 @@
 	Paragraph marks	เครื่องหมายย่อหน้า
 	Paragraph Settings	การตั้งค่าย่อหน้า
 	Paragraph Spacing	ระยะห่างย่อหน้า
-	Paragraph style	สไตล์ย่อหน้า
+	Paragraph style	รูปแบบย่อหน้า
 	Paragraph Up	เลื่อนขึ้นทีละย่อหน้า
 	Paragraphs	ย่อหน้า
 	Paragraph…	ย่อหน้า…
@@ -1283,7 +1283,7 @@
 	Picture Border	เส้นขอบรูปภาพ
 	Picture Content Control	ตัวควบคุมเนื้อหารูปภาพ
 	Picture Format	รูปแบบรูปภาพ
-	Picture Styles	สไตล์รูปภาพ
+	Picture Styles	รูปแบบรูปภาพ
 	Pictures	รูปภาพ
 	Pie	วงกลม
 	Place in This Document	ตำแหน่งในเอกสารนี้
@@ -1575,7 +1575,7 @@
 	Shape Fill	เติมสีรูปร่าง
 	Shape Format	รูปแบบรูปร่าง
 	Shape Outline	เส้นขอบรูปร่าง
-	Shape Styles	สไตล์รูปร่าง
+	Shape Styles	รูปแบบรูปร่าง
 	{key} starts a new line without starting a new paragraph.	{key} ขึ้นบรรทัดใหม่โดยไม่เริ่มย่อหน้าใหม่
 	Shipping labels	ป้ายจัดส่ง
 	Shortcut key:	แป้นพิมพ์ลัด:
@@ -1589,7 +1589,7 @@
 	Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged.	แสดงเอกสารด้วยสีกลับด้าน เหมือน มุมมอง › สลับโหมด การบันทึก การพิมพ์ และ PDF จะไม่เปลี่ยนแปลง
 	Show every bibliography field	แสดงทุกฟิลด์ของบรรณานุกรม
 	Show First Line Only	แสดงเฉพาะบรรทัดแรก
-	Show in the Styles gallery	แสดงในแกลเลอรีสไตล์
+	Show in the Styles gallery	แสดงในแกลเลอรีรูปแบบ
 	Show its list number	แสดงหมายเลขรายการ
 	Show its number relative to this field	แสดงหมายเลขโดยอิงกับฟิลด์นี้
 	Show its number with all higher levels	แสดงหมายเลขพร้อมระดับที่สูงกว่าทั้งหมด
@@ -1608,7 +1608,7 @@
 	Show Notes	แสดงบันทึกย่อ
 	Show only comments and formatting in balloons	แสดงเฉพาะความคิดเห็นและการจัดรูปแบบในบอลลูน
 	Show only records that will be merged	แสดงเฉพาะระเบียนที่จะถูกผสาน
-	Show or Hide Style	แสดงหรือซ่อนสไตล์
+	Show or Hide Style	แสดงหรือซ่อนรูปแบบ
 	Show Quick Access Toolbar	แสดงแถบเครื่องมือด่วน
 	Show revisions in balloons	แสดงการแก้ไขในบอลลูน
 	Show Text Formatting	แสดงการจัดรูปแบบข้อความ
@@ -1653,7 +1653,7 @@
 	Small caps	ตัวพิมพ์ใหญ่ขนาดเล็ก
 	Smart quotes instead of straight quotes	อัญประกาศโค้งแทนอัญประกาศตรง
 	SmartArt Design	ออกแบบ SmartArt
-	SmartArt Styles	สไตล์ SmartArt
+	SmartArt Styles	รูปแบบ SmartArt
 	Smooth scrolling and zooming, and menus and buttons that fade in. Off shows every change at once.	การเลื่อนและการย่อ/ขยายที่ลื่นไหล และเมนูกับปุ่มที่ค่อย ๆ ปรากฏ เมื่อปิดจะแสดงทุกการเปลี่ยนแปลงทันที
 	Soft Edges	ขอบนุ่ม
 	Soft Glow	เรืองแสงนุ่ม
@@ -1707,13 +1707,13 @@
 	Structures	โครงสร้าง
 	Studio cover	ปกสตูดิโอ
 	Studio handbook (sample)	คู่มือสตูดิโอ (ตัวอย่าง)
-	Style based on:	สไตล์ที่ใช้เป็นฐาน:
-	Style Inspector	ตัวตรวจลักษณะ
-	Style name:	ชื่อสไตล์:
-	Style Set	ชุดสไตล์
-	Style: {style}	สไตล์: {style}
-	Styles Pane	บานหน้าต่างสไตล์
-	Styles:	สไตล์:
+	Style based on:	รูปแบบที่ใช้เป็นฐาน:
+	Style Inspector	ตัวตรวจรูปแบบ
+	Style name:	ชื่อรูปแบบ:
+	Style Set	ชุดรูปแบบ
+	Style: {style}	รูปแบบ: {style}
+	Styles Pane	บานหน้าต่างรูปแบบ
+	Styles:	รูปแบบ:
 	Subentry:	รายการย่อย:
 	Submit print job	ส่งงานพิมพ์
 	Submitting print job…	กำลังส่งงานพิมพ์…
@@ -1739,14 +1739,14 @@
 	Table of Authorities	สารบัญอ้างอิงทางกฎหมาย
 	Table of Contents	สารบัญ
 	Table of Contents Options	ตัวเลือกสารบัญ
-	Table of Contents Styles	สไตล์สารบัญ
+	Table of Contents Styles	รูปแบบสารบัญ
 	Table of\nContents	สารบัญ
 	Table Properties	คุณสมบัติตาราง
 	Table Properties…	คุณสมบัติตาราง…
 	Table Row Height	ความสูงแถวตาราง
 	Table size	ขนาดตาราง
-	Table Style Options	ตัวเลือกสไตล์ตาราง
-	Table Styles	ลักษณะตาราง
+	Table Style Options	ตัวเลือกรูปแบบตาราง
+	Table Styles	รูปแบบตาราง
 	Tabs…	แท็บ…
 	Tabular List	รายการแบบตาราง
 	Tag	แท็ก
@@ -1766,7 +1766,7 @@
 	Text from File	ข้อความจากไฟล์
 	Text Highlight Color	สีเน้นข้อความ
 	Text indent at:	การเยื้องข้อความที่:
-	Text of the nearest paragraph with a given style (running headers)	ข้อความของย่อหน้าที่ใกล้ที่สุดซึ่งใช้สไตล์ที่กำหนด (หัวกระดาษต่อเนื่อง)
+	Text of the nearest paragraph with a given style (running headers)	ข้อความของย่อหน้าที่ใกล้ที่สุดซึ่งใช้รูปแบบที่กำหนด (หัวกระดาษต่อเนื่อง)
 	Text Outline	เส้นขอบข้อความ
 	Text Pane	บานหน้าต่างข้อความ
 	Text size	ขนาดข้อความ
@@ -1788,7 +1788,7 @@
 	The document you are editing keeps the names and dates; only the saved file leaves them out.	เอกสารที่คุณกำลังแก้ไขยังเก็บชื่อและวันที่ไว้ เฉพาะไฟล์ที่บันทึกเท่านั้นที่ไม่มีข้อมูลเหล่านี้
 	The margins don't fit on a page this size; make the margins smaller first.	ระยะขอบไม่พอดีกับหน้ากระดาษขนาดนี้ ให้ลดระยะขอบก่อน
 	The measurement must be between {min} and {max}.	ค่าที่วัดต้องอยู่ระหว่าง {min} ถึง {max}
-	The new style takes the formatting of the current paragraph.	สไตล์ใหม่จะใช้การจัดรูปแบบของย่อหน้าปัจจุบัน
+	The new style takes the formatting of the current paragraph.	รูปแบบใหม่จะใช้การจัดรูปแบบของย่อหน้าปัจจุบัน
 	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	อ่านเทมเพลต Normal ไม่ได้ เอกสารนี้จึงใช้การจัดรูปแบบในตัวของ WordCraft
 	The number must be between 1 and {max}.	ตัวเลขต้องอยู่ระหว่าง 1 ถึง {max}
 	the paragraph is empty	ย่อหน้าว่างเปล่า
@@ -1901,8 +1901,8 @@
 	Update Field	อัปเดตเขตข้อมูล
 	Update fields before printing	อัปเดตฟิลด์ก่อนพิมพ์
 	Update Index	อัปเดตดัชนี
-	Update Style to Match Selection	อัปเดตสไตล์ให้ตรงกับส่วนที่เลือก
-	Update Styles from Template	อัปเดตสไตล์จากเทมเพลต
+	Update Style to Match Selection	อัปเดตรูปแบบให้ตรงกับส่วนที่เลือก
+	Update Styles from Template	อัปเดตรูปแบบจากเทมเพลต
 	Update Table	อัปเดตตาราง
 	Update Table of Figures	อัปเดตสารบัญรูป
 	Update to Match	อัปเดตให้ตรงกัน
@@ -1910,7 +1910,7 @@
 	Use an Existing List…	ใช้รายการที่มีอยู่…
 	Use system setting	ใช้การตั้งค่าของระบบ
 	Use the browser's full screen (F11)	ใช้โหมดเต็มหน้าจอของเบราว์เซอร์ (F11)
-	Use the current style set and theme for all new documents?	ใช้ชุดสไตล์และธีมปัจจุบันสำหรับเอกสารใหม่ทั้งหมดหรือไม่
+	Use the current style set and theme for all new documents?	ใช้ชุดรูปแบบและธีมปัจจุบันสำหรับเอกสารใหม่ทั้งหมดหรือไม่
 	Use the Insert key to switch overtype on and off	ใช้แป้น Insert เพื่อเปิดและปิดการพิมพ์ทับ
 	Use this formatting as the default for:	ใช้การจัดรูปแบบนี้เป็นค่าเริ่มต้นสำหรับ:
 	Use wildcards	ใช้อักขระตัวแทน
@@ -1961,7 +1961,7 @@
 	Word Right	เลื่อนขวาทีละคำ
 	Word XML Document (*.xml)	เอกสาร XML ของ Word (*.xml)
 	WordArt	อักษรศิลป์
-	WordArt Styles	สไตล์อักษรศิลป์
+	WordArt Styles	รูปแบบอักษรศิลป์
 	WordCraft is now the default app for Word documents.	ตอนนี้ WordCraft เป็นแอปเริ่มต้นสำหรับเอกสาร Word แล้ว
 	Words only	เฉพาะคำ
 	Wrap Text	ตัดข้อความ

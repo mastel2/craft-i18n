@@ -75,7 +75,7 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	Appearance Settings…	การตั้งค่าลักษณะที่ปรากฏ…
 	Application	แอปพลิเคชัน
 	Apply	นำไปใช้
-	Apply Character Style	ใช้สไตล์อักขระ
+	Apply Character Style	ใช้รูปแบบอักขระ
 	Apply Data Set	ใช้ชุดข้อมูล
 	Apply to:	ใช้กับ:
 	Arc	โค้ง
@@ -172,7 +172,7 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	Channel Mixer	ตัวผสมช่องสี
 	Channels	ช่องสี
 	Character	อักขระ
-	Character Styles	สไตล์อักขระ
+	Character Styles	รูปแบบอักขระ
 	Characters	ตัวอักษร
 	Check for Updates	ตรวจหาการอัปเดต
 	Check for updates	ตรวจหาการอัปเดต
@@ -286,7 +286,7 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	Delete Brush	ลบพู่กัน
 	Delete Group	ลบกลุ่ม
 	Delete Layer	ลบเลเยอร์
-	Delete Style	ลบสไตล์
+	Delete Style	ลบรูปแบบ
 	Delete Workspace	ลบพื้นที่ทำงาน
 	Deleted	ลบแล้ว
 	Depth	ความลึก
@@ -703,7 +703,7 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	New Guide	เส้นนำใหม่
 	New Layer	เลเยอร์ใหม่
 	New Layer…	เลเยอร์ใหม่…
-	New Style…	สไตล์ใหม่…
+	New Style…	รูปแบบใหม่…
 	New Swatch…	แถบสีใหม่…
 	New Window	หน้าต่างใหม่
 	New Workspace	พื้นที่ทำงานใหม่
@@ -779,7 +779,7 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	Panels	แผง
 	Paper	กระดาษ
 	Paragraph	ย่อหน้า
-	Paragraph Styles	สไตล์ย่อหน้า
+	Paragraph Styles	รูปแบบย่อหน้า
 	Password	รหัสผ่าน
 	Paste	วาง
 	Paste Special	วางแบบพิเศษ
@@ -893,7 +893,7 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	Remove from favorites	นำออกจากรายการโปรด
 	Rename	เปลี่ยนชื่อ
 	Rename Group…	เปลี่ยนชื่อกลุ่ม…
-	Rename Style	เปลี่ยนชื่อสไตล์
+	Rename Style	เปลี่ยนชื่อรูปแบบ
 	Rename…	เปลี่ยนชื่อ…
 	Repeat	ทำซ้ำ
 	Replace	แทนที่
@@ -1059,9 +1059,9 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	Stroke Options	ตัวเลือกเส้นขอบ
 	Stroke:	เส้นขอบ:
 	Studio	สตูดิโอ
-	Style	ลักษณะ
-	Style:	สไตล์:
-	Styles	สไตล์
+	Style	รูปแบบ
+	Style:	รูปแบบ:
+	Styles	รูปแบบ
 	Stylize	สไตไลซ์
 	Subdivisions	การแบ่งย่อย
 	Subject	หัวเรื่อง
@@ -1078,7 +1078,7 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	System	ระบบ
 	Tab	แท็บ
 	Table	ตาราง
-	Table style	สไตล์ตาราง
+	Table style	รูปแบบตาราง
 	Tables	ตาราง
 	Tabs	แท็บ
 	Taper	เรียวปลาย
