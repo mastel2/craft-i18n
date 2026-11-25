@@ -142,7 +142,7 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	Bottom:	ล่าง:
 	Break Link	ยกเลิกการเชื่อมโยง
 	Brightness	ความสว่าง
-	Bring Forward	นำไปข้างหน้าหนึ่งระดับ
+	Bring Forward	นำไปข้างหน้า
 	Bring to Front	นำไปไว้หน้าสุด
 	Brown	น้ำตาล
 	Browse…	เรียกดู…
@@ -966,7 +966,7 @@ theme	Appearance	ลักษณะที่ปรากฏ
 	Selection	ส่วนที่เลือก
 	Selection Tool	เครื่องมือเลือก
 	Selective	เฉพาะส่วน
-	Send Backward	ส่งไปข้างหลังหนึ่งระดับ
+	Send Backward	ส่งไปข้างหลัง
 	Send to Back	ส่งไปไว้หลังสุด
 	Sensitivity	ความไว
 	Sent to {printer}	ส่งไปที่ {printer} แล้ว
